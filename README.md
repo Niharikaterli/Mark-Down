@@ -50,10 +50,10 @@ normal text
   github(https://github.com)
   
   **data**
-  |name|college|branch|   
-  |-----|-----|-----|
-  |abc|VRSEC|IT|
-  |XYZ|PVPSIT|CSE|
+  |name|college|branch|     
+  |-----|-----|-----|    
+  |abc|VRSEC|IT|      
+  |XYZ|PVPSIT|CSE|     
   
   ~~NIHAIKA~~
   - [X] Checkbox
